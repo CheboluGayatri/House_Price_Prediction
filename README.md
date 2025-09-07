@@ -1,1 +1,1 @@
-# House_Price_Prediction
+This project is a House Price Prediction Web App built using Linear Regression and deployed with Streamlit. It allows users to input features like area, number of bedrooms, bathrooms, and location to get an instant prediction of the estimated house price. The model is trained on housing data using scikit-learn, while the frontend provides an interactive and user-friendly interface powered by Streamlit. This project showcases how machine learning can be combined with simple web deployment to make predictive analytics accessible and practical.
